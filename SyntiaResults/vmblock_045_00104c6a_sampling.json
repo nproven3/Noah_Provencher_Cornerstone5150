@@ -1,0 +1,4135 @@
+{
+    "initial": {
+        "inputs": {
+            "0": {
+                "location": "RBP", 
+                "size": "0x8", 
+                "value": "0xfaadbdace904103b"
+            }, 
+            "1": {
+                "location": "RSP", 
+                "size": "0x8", 
+                "value": "0xfaadbdace904103b"
+            }, 
+            "2": {
+                "location": "mem_0x0", 
+                "size": "0x8", 
+                "value": "0x0"
+            }, 
+            "3": {
+                "location": "mem_0x1", 
+                "size": "0x8", 
+                "value": "0x0"
+            }, 
+            "4": {
+                "location": "mem_0x2", 
+                "size": "0x4", 
+                "value": "0x0"
+            }
+        }, 
+        "outputs": {
+            "0": {
+                "location": "RAX", 
+                "size": "0x8", 
+                "value": "0x0"
+            }, 
+            "1": {
+                "location": "RDX", 
+                "size": "0x8", 
+                "value": "0x0"
+            }, 
+            "2": {
+                "location": "RCX", 
+                "size": "0x8", 
+                "value": "0x0"
+            }, 
+            "3": {
+                "location": "EAX", 
+                "size": "0x4", 
+                "value": "0x0"
+            }, 
+            "4": {
+                "location": "RBX", 
+                "size": "0x8", 
+                "value": "0xfaadbdace90407ab"
+            }, 
+            "5": {
+                "location": "RSI", 
+                "size": "0x8", 
+                "value": "0x0"
+            }, 
+            "6": {
+                "location": "EDI", 
+                "size": "0x4", 
+                "value": "0x0"
+            }, 
+            "7": {
+                "location": "RSP", 
+                "size": "0x8", 
+                "value": "0xfaadbdace9041033"
+            }, 
+            "8": {
+                "location": "mem_0xfaadbdace9041033", 
+                "size": "0x8", 
+                "value": "0x1000047"
+            }, 
+            "9": {
+                "location": "mem_0xfaadbdace90407ab", 
+                "size": "0x8", 
+                "value": "0x0"
+            }
+        }
+    }, 
+    "sampling": {
+        "0": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xe76e25d2700d3891"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x2d8500a24f24ed40"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x340633ee316f3d9a"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x3ac7ce8f983b678c"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0xd216fe50"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0xd216fe50"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x340633ee316f3d9a"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x3ac7ce8f983b678c"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0xd216fe50"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xe76e25d2700d3001"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x3ac7ce8f983b678c"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0xd216fe50"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x2d8500a24f24ed38"
+                }, 
+                "8": {
+                    "location": "mem_0x2d8500a24f24ed38", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xe76e25d2700d3001", 
+                    "size": "0x8", 
+                    "value": "0xd216fe50"
+                }
+            }
+        }, 
+        "1": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x98ce8d3c51c8aa8b"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x6baae0e30389b5ef"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0xcadb03e9896aa125"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x31209f346ebef9c8"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x1bd1090c"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x1bd1090c"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0xcadb03e9896aa125"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x31209f346ebef9c8"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x1bd1090c"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x98ce8d3c51c8a1fb"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x31209f346ebef9c8"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x1bd1090c"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x6baae0e30389b5e7"
+                }, 
+                "8": {
+                    "location": "mem_0x6baae0e30389b5e7", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x98ce8d3c51c8a1fb", 
+                    "size": "0x8", 
+                    "value": "0x1bd1090c"
+                }
+            }
+        }, 
+        "2": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x15c55cf2e38e7437"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x6210fc1437679fa4"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x5a0e7eded43d5e8e"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x8db691c1ad6be6f1"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x1f2e5abd"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x1f2e5abd"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x5a0e7eded43d5e8e"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x8db691c1ad6be6f1"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x1f2e5abd"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x15c55cf2e38e6ba7"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x8db691c1ad6be6f1"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x1f2e5abd"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x6210fc1437679f9c"
+                }, 
+                "8": {
+                    "location": "mem_0x6210fc1437679f9c", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x15c55cf2e38e6ba7", 
+                    "size": "0x8", 
+                    "value": "0x1f2e5abd"
+                }
+            }
+        }, 
+        "3": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x17819220d7ae9c1a"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x410cdcc644e6c438"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0xe0f32f73c377e387"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x7fbc1801bd85c829"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x5b846c87"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x5b846c87"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0xe0f32f73c377e387"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x7fbc1801bd85c829"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x5b846c87"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x17819220d7ae938a"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x7fbc1801bd85c829"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x5b846c87"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x410cdcc644e6c430"
+                }, 
+                "8": {
+                    "location": "mem_0x410cdcc644e6c430", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x17819220d7ae938a", 
+                    "size": "0x8", 
+                    "value": "0x5b846c87"
+                }
+            }
+        }, 
+        "4": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xc8fb4681946a6f9b"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x5a321a1118b3609d"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x78b1d71e88a2461"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0xd7e12c884d7f0df4"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0xc7ff23cf"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0xc7ff23cf"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x78b1d71e88a2461"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0xd7e12c884d7f0df4"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0xc7ff23cf"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xc8fb4681946a670b"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0xd7e12c884d7f0df4"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0xc7ff23cf"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x5a321a1118b36095"
+                }, 
+                "8": {
+                    "location": "mem_0x5a321a1118b36095", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xc8fb4681946a670b", 
+                    "size": "0x8", 
+                    "value": "0xc7ff23cf"
+                }
+            }
+        }, 
+        "5": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xa1a7e4b717c370d9"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xf5869bf95ae1469b"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x73e2e2665cb3f8fa"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x347c61a818085a90"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x2795135e"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x2795135e"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x73e2e2665cb3f8fa"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x347c61a818085a90"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x2795135e"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xa1a7e4b717c36849"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x347c61a818085a90"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x2795135e"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xf5869bf95ae14693"
+                }, 
+                "8": {
+                    "location": "mem_0xf5869bf95ae14693", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xa1a7e4b717c36849", 
+                    "size": "0x8", 
+                    "value": "0x2795135e"
+                }
+            }
+        }, 
+        "6": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xf5a839e6a536dd3e"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x6a90265d09cef6cf"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x4e0796bd0faa983f"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0xc35047cef7b035d0"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x9c6ec0fe"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x9c6ec0fe"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x4e0796bd0faa983f"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0xc35047cef7b035d0"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x9c6ec0fe"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xf5a839e6a536d4ae"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0xc35047cef7b035d0"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x9c6ec0fe"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x6a90265d09cef6c7"
+                }, 
+                "8": {
+                    "location": "mem_0x6a90265d09cef6c7", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xf5a839e6a536d4ae", 
+                    "size": "0x8", 
+                    "value": "0x9c6ec0fe"
+                }
+            }
+        }, 
+        "7": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x7dfe024e39050ef2"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x230bbc41eddae0ce"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x27c2912b0a3823c"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x3d2308e772bcd03f"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0xb8039ade"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0xb8039ade"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x27c2912b0a3823c"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x3d2308e772bcd03f"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0xb8039ade"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x7dfe024e39050662"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x3d2308e772bcd03f"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0xb8039ade"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x230bbc41eddae0c6"
+                }, 
+                "8": {
+                    "location": "mem_0x230bbc41eddae0c6", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x7dfe024e39050662", 
+                    "size": "0x8", 
+                    "value": "0xb8039ade"
+                }
+            }
+        }, 
+        "8": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x25713700617f89d7"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xaa08a80733d01103"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0xc18f91637286d503"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0xf5fff6508a84c05b"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0xa10a58cf"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0xa10a58cf"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0xc18f91637286d503"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0xf5fff6508a84c05b"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0xa10a58cf"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x25713700617f8147"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0xf5fff6508a84c05b"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0xa10a58cf"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xaa08a80733d010fb"
+                }, 
+                "8": {
+                    "location": "mem_0xaa08a80733d010fb", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x25713700617f8147", 
+                    "size": "0x8", 
+                    "value": "0xa10a58cf"
+                }
+            }
+        }, 
+        "9": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xc6e105610834f4c7"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xe4f601fd5b9f4f0a"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0xc465d3229db2d293"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x5b7ba1e502448626"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0xf4bd14d2"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0xf4bd14d2"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0xc465d3229db2d293"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x5b7ba1e502448626"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0xf4bd14d2"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xc6e105610834ec37"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x5b7ba1e502448626"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0xf4bd14d2"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xe4f601fd5b9f4f02"
+                }, 
+                "8": {
+                    "location": "mem_0xe4f601fd5b9f4f02", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xc6e105610834ec37", 
+                    "size": "0x8", 
+                    "value": "0xf4bd14d2"
+                }
+            }
+        }, 
+        "10": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x61602b877c21717f"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xe31716e2bf03874e"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x44b2c12487c6e98b"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x73645831f69ee120"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x8d7e4ade"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x8d7e4ade"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x44b2c12487c6e98b"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x73645831f69ee120"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x8d7e4ade"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x61602b877c2168ef"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x73645831f69ee120"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x8d7e4ade"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xe31716e2bf038746"
+                }, 
+                "8": {
+                    "location": "mem_0xe31716e2bf038746", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x61602b877c2168ef", 
+                    "size": "0x8", 
+                    "value": "0x8d7e4ade"
+                }
+            }
+        }, 
+        "11": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xe2ab410ddfe7b7a4"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x94d6e7e9114881f5"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0xda7cff3e9998f05c"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0xc4eeed36742f492c"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x65781245"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x65781245"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0xda7cff3e9998f05c"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0xc4eeed36742f492c"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x65781245"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xe2ab410ddfe7af14"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0xc4eeed36742f492c"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x65781245"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x94d6e7e9114881ed"
+                }, 
+                "8": {
+                    "location": "mem_0x94d6e7e9114881ed", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xe2ab410ddfe7af14", 
+                    "size": "0x8", 
+                    "value": "0x65781245"
+                }
+            }
+        }, 
+        "12": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xa0387d258e58c44c"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xbbc8c391f5271637"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x2c8b9a7e7071e32b"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x29c6ac5f2f1496f0"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x657d6f72"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x657d6f72"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x2c8b9a7e7071e32b"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x29c6ac5f2f1496f0"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x657d6f72"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xa0387d258e58bbbc"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x29c6ac5f2f1496f0"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x657d6f72"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xbbc8c391f527162f"
+                }, 
+                "8": {
+                    "location": "mem_0xbbc8c391f527162f", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xa0387d258e58bbbc", 
+                    "size": "0x8", 
+                    "value": "0x657d6f72"
+                }
+            }
+        }, 
+        "13": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xb031551d67b4400"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xb546c34be4086446"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x1c0cdc828a658130"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x819c12dc80ba36f0"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x971cf2bb"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x971cf2bb"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x1c0cdc828a658130"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x819c12dc80ba36f0"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x971cf2bb"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xb031551d67b3b70"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x819c12dc80ba36f0"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x971cf2bb"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xb546c34be408643e"
+                }, 
+                "8": {
+                    "location": "mem_0xb546c34be408643e", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xb031551d67b3b70", 
+                    "size": "0x8", 
+                    "value": "0x971cf2bb"
+                }
+            }
+        }, 
+        "14": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xfdf832300dea4f08"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x4ea85f2388eca253"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x7146429a640827b1"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0xf27b576a018e605d"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x8578218"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x8578218"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x7146429a640827b1"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0xf27b576a018e605d"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x8578218"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xfdf832300dea4678"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0xf27b576a018e605d"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x8578218"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x4ea85f2388eca24b"
+                }, 
+                "8": {
+                    "location": "mem_0x4ea85f2388eca24b", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xfdf832300dea4678", 
+                    "size": "0x8", 
+                    "value": "0x8578218"
+                }
+            }
+        }, 
+        "15": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xbeb67d6a761d7814"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xa86afcd29575e62d"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x79db760578a59e59"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0xd1f57168a5b978e8"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0xdf7dd0c5"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0xdf7dd0c5"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x79db760578a59e59"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0xd1f57168a5b978e8"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0xdf7dd0c5"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xbeb67d6a761d6f84"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0xd1f57168a5b978e8"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0xdf7dd0c5"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xa86afcd29575e625"
+                }, 
+                "8": {
+                    "location": "mem_0xa86afcd29575e625", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xbeb67d6a761d6f84", 
+                    "size": "0x8", 
+                    "value": "0xdf7dd0c5"
+                }
+            }
+        }, 
+        "16": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x19eb6b4c5d414429"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xc61c9b0126a8cfc0"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0xd7eff538fc4d6049"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x94fe25902b94cc05"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x54794f7d"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x54794f7d"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0xd7eff538fc4d6049"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x94fe25902b94cc05"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x54794f7d"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x19eb6b4c5d413b99"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x94fe25902b94cc05"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x54794f7d"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xc61c9b0126a8cfb8"
+                }, 
+                "8": {
+                    "location": "mem_0xc61c9b0126a8cfb8", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x19eb6b4c5d413b99", 
+                    "size": "0x8", 
+                    "value": "0x54794f7d"
+                }
+            }
+        }, 
+        "17": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xd1ca25997605622f"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x37a247edb6996ac2"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x54b08e5d2299347b"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x61c57b4b0053f7ef"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x54bf0e64"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x54bf0e64"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x54b08e5d2299347b"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x61c57b4b0053f7ef"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x54bf0e64"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xd1ca25997605599f"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x61c57b4b0053f7ef"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x54bf0e64"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x37a247edb6996aba"
+                }, 
+                "8": {
+                    "location": "mem_0x37a247edb6996aba", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xd1ca25997605599f", 
+                    "size": "0x8", 
+                    "value": "0x54bf0e64"
+                }
+            }
+        }, 
+        "18": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x9ebc56394841b883"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x1d3696e8824a8795"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x27611aaf509eacc5"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x4328d22f5d7ed2ed"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0xa7f270cc"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0xa7f270cc"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x27611aaf509eacc5"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x4328d22f5d7ed2ed"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0xa7f270cc"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x9ebc56394841aff3"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x4328d22f5d7ed2ed"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0xa7f270cc"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x1d3696e8824a878d"
+                }, 
+                "8": {
+                    "location": "mem_0x1d3696e8824a878d", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x9ebc56394841aff3", 
+                    "size": "0x8", 
+                    "value": "0xa7f270cc"
+                }
+            }
+        }, 
+        "19": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xd7fce88ba769fa3b"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xe474272463ba3b6e"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x1cd7e4efd9d73b48"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0xe6abbc803b915649"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0xb77965c4"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0xb77965c4"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x1cd7e4efd9d73b48"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0xe6abbc803b915649"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0xb77965c4"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xd7fce88ba769f1ab"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0xe6abbc803b915649"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0xb77965c4"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xe474272463ba3b66"
+                }, 
+                "8": {
+                    "location": "mem_0xe474272463ba3b66", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xd7fce88ba769f1ab", 
+                    "size": "0x8", 
+                    "value": "0xb77965c4"
+                }
+            }
+        }, 
+        "20": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x2335649a44b355bc"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x553c6c459e66d6cf"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0xf989f2c9fbc02252"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x63ea5060d97fa5eb"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x434e86d3"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x434e86d3"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0xf989f2c9fbc02252"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x63ea5060d97fa5eb"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x434e86d3"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x2335649a44b34d2c"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x63ea5060d97fa5eb"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x434e86d3"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x553c6c459e66d6c7"
+                }, 
+                "8": {
+                    "location": "mem_0x553c6c459e66d6c7", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x2335649a44b34d2c", 
+                    "size": "0x8", 
+                    "value": "0x434e86d3"
+                }
+            }
+        }, 
+        "21": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xeef67d81699503d1"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x56da4454d587b111"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x7e9a18cefd877e28"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x1d3712ca43739198"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x9853fec8"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x9853fec8"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x7e9a18cefd877e28"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x1d3712ca43739198"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x9853fec8"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xeef67d816994fb41"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x1d3712ca43739198"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x9853fec8"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x56da4454d587b109"
+                }, 
+                "8": {
+                    "location": "mem_0x56da4454d587b109", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xeef67d816994fb41", 
+                    "size": "0x8", 
+                    "value": "0x9853fec8"
+                }
+            }
+        }, 
+        "22": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x2c0e7c15a34dc6a5"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xbd37359f609f5980"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x1fedd58e83f8329c"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x8482f1fb9ded75c1"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0xa8f8d20f"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0xa8f8d20f"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x1fedd58e83f8329c"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x8482f1fb9ded75c1"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0xa8f8d20f"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x2c0e7c15a34dbe15"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x8482f1fb9ded75c1"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0xa8f8d20f"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xbd37359f609f5978"
+                }, 
+                "8": {
+                    "location": "mem_0xbd37359f609f5978", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x2c0e7c15a34dbe15", 
+                    "size": "0x8", 
+                    "value": "0xa8f8d20f"
+                }
+            }
+        }, 
+        "23": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xa13a572902ed840c"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x17e460f6dd6ede3f"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x78535b28d257507"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x7a42ba2aaf1e0c1b"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0xb1277fd0"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0xb1277fd0"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x78535b28d257507"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x7a42ba2aaf1e0c1b"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0xb1277fd0"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xa13a572902ed7b7c"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x7a42ba2aaf1e0c1b"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0xb1277fd0"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x17e460f6dd6ede37"
+                }, 
+                "8": {
+                    "location": "mem_0x17e460f6dd6ede37", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xa13a572902ed7b7c", 
+                    "size": "0x8", 
+                    "value": "0xb1277fd0"
+                }
+            }
+        }, 
+        "24": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xee9b4a057e0a0405"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x2371bc69fa2e655c"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0xaad1ac1b26014a28"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0xe1989b6f6095e520"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x3aec3c31"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x3aec3c31"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0xaad1ac1b26014a28"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0xe1989b6f6095e520"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x3aec3c31"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xee9b4a057e09fb75"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0xe1989b6f6095e520"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x3aec3c31"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x2371bc69fa2e6554"
+                }, 
+                "8": {
+                    "location": "mem_0x2371bc69fa2e6554", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xee9b4a057e09fb75", 
+                    "size": "0x8", 
+                    "value": "0x3aec3c31"
+                }
+            }
+        }, 
+        "25": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xc5ea510575c20d6e"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x39db6d00f243102b"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0xdc5a5861556fce33"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x86215422ab5cab8f"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x636b445d"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x636b445d"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0xdc5a5861556fce33"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x86215422ab5cab8f"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x636b445d"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xc5ea510575c204de"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x86215422ab5cab8f"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x636b445d"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x39db6d00f2431023"
+                }, 
+                "8": {
+                    "location": "mem_0x39db6d00f2431023", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xc5ea510575c204de", 
+                    "size": "0x8", 
+                    "value": "0x636b445d"
+                }
+            }
+        }, 
+        "26": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xfaa2d090c1e5664f"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x33e7e6a4ade6fd51"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x7c4f04f523e819dd"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0xc292604aad98b5ee"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x8d298792"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x8d298792"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x7c4f04f523e819dd"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0xc292604aad98b5ee"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x8d298792"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xfaa2d090c1e55dbf"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0xc292604aad98b5ee"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x8d298792"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x33e7e6a4ade6fd49"
+                }, 
+                "8": {
+                    "location": "mem_0x33e7e6a4ade6fd49", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xfaa2d090c1e55dbf", 
+                    "size": "0x8", 
+                    "value": "0x8d298792"
+                }
+            }
+        }, 
+        "27": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xa9af84833013bf31"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x6f7654b499ae5541"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x641254a1064ce385"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x5def8ac32e411e2e"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x4433b6fe"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x4433b6fe"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x641254a1064ce385"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x5def8ac32e411e2e"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x4433b6fe"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xa9af84833013b6a1"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x5def8ac32e411e2e"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x4433b6fe"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x6f7654b499ae5539"
+                }, 
+                "8": {
+                    "location": "mem_0x6f7654b499ae5539", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xa9af84833013b6a1", 
+                    "size": "0x8", 
+                    "value": "0x4433b6fe"
+                }
+            }
+        }, 
+        "28": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x8abcb8abc5d475fd"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x2f6cfb6234131e64"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x84fd1ccc8c8c136"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x7b43b92dd98748b4"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x557435f9"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x557435f9"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x84fd1ccc8c8c136"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x7b43b92dd98748b4"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x557435f9"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x8abcb8abc5d46d6d"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x7b43b92dd98748b4"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x557435f9"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x2f6cfb6234131e5c"
+                }, 
+                "8": {
+                    "location": "mem_0x2f6cfb6234131e5c", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x8abcb8abc5d46d6d", 
+                    "size": "0x8", 
+                    "value": "0x557435f9"
+                }
+            }
+        }, 
+        "29": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x78b769d6d2fb5f18"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xfe35fe0f5843b224"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x6eb95fd995d47ca0"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x7c13ccc3ef3ce361"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x99a8dd6e"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x99a8dd6e"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x6eb95fd995d47ca0"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x7c13ccc3ef3ce361"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x99a8dd6e"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x78b769d6d2fb5688"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x7c13ccc3ef3ce361"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x99a8dd6e"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xfe35fe0f5843b21c"
+                }, 
+                "8": {
+                    "location": "mem_0xfe35fe0f5843b21c", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x78b769d6d2fb5688", 
+                    "size": "0x8", 
+                    "value": "0x99a8dd6e"
+                }
+            }
+        }, 
+        "30": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x11020119e524d8cb"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x3e12c05bb2835b0b"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x70040d76f6bacdbb"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x13aa296a287ea0d2"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x4c4bb7d5"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x4c4bb7d5"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x70040d76f6bacdbb"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x13aa296a287ea0d2"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x4c4bb7d5"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x11020119e524d03b"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x13aa296a287ea0d2"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x4c4bb7d5"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x3e12c05bb2835b03"
+                }, 
+                "8": {
+                    "location": "mem_0x3e12c05bb2835b03", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x11020119e524d03b", 
+                    "size": "0x8", 
+                    "value": "0x4c4bb7d5"
+                }
+            }
+        }, 
+        "31": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xce5d0565f4c61887"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x4766217dc0f4cbef"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0xccd4153744db7f36"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x5cd930c58198171b"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x86b1baa1"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x86b1baa1"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0xccd4153744db7f36"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x5cd930c58198171b"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x86b1baa1"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xce5d0565f4c60ff7"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x5cd930c58198171b"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x86b1baa1"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x4766217dc0f4cbe7"
+                }, 
+                "8": {
+                    "location": "mem_0x4766217dc0f4cbe7", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xce5d0565f4c60ff7", 
+                    "size": "0x8", 
+                    "value": "0x86b1baa1"
+                }
+            }
+        }, 
+        "32": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xbaec0aff5f6a681e"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x659de7cf9cb074ca"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x56505c92a85e2733"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0xed394bfa3a2d8184"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x19d036f0"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x19d036f0"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x56505c92a85e2733"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0xed394bfa3a2d8184"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x19d036f0"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xbaec0aff5f6a5f8e"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0xed394bfa3a2d8184"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x19d036f0"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x659de7cf9cb074c2"
+                }, 
+                "8": {
+                    "location": "mem_0x659de7cf9cb074c2", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xbaec0aff5f6a5f8e", 
+                    "size": "0x8", 
+                    "value": "0x19d036f0"
+                }
+            }
+        }, 
+        "33": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x526d890e9d64d7f6"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x2cf528c06c7cdd05"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x96d3f0767cd53a8a"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x45d1da34c1485369"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0xc06de67"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0xc06de67"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x96d3f0767cd53a8a"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x45d1da34c1485369"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0xc06de67"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x526d890e9d64cf66"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x45d1da34c1485369"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0xc06de67"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x2cf528c06c7cdcfd"
+                }, 
+                "8": {
+                    "location": "mem_0x2cf528c06c7cdcfd", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x526d890e9d64cf66", 
+                    "size": "0x8", 
+                    "value": "0xc06de67"
+                }
+            }
+        }, 
+        "34": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x24d08db92f135ebb"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x60996775aa8856f4"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x2c5fd82beaba3d99"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x108f2c4577b30132"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x594808ec"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x594808ec"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x2c5fd82beaba3d99"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x108f2c4577b30132"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x594808ec"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x24d08db92f13562b"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x108f2c4577b30132"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x594808ec"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x60996775aa8856ec"
+                }, 
+                "8": {
+                    "location": "mem_0x60996775aa8856ec", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x24d08db92f13562b", 
+                    "size": "0x8", 
+                    "value": "0x594808ec"
+                }
+            }
+        }, 
+        "35": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x12fe1a819aab14c0"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x1332a1a640116d7d"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x8f6a0cfa08f1010a"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0xf6e7551c72f87326"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x66d566ec"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x66d566ec"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x8f6a0cfa08f1010a"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0xf6e7551c72f87326"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x66d566ec"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x12fe1a819aab0c30"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0xf6e7551c72f87326"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x66d566ec"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x1332a1a640116d75"
+                }, 
+                "8": {
+                    "location": "mem_0x1332a1a640116d75", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x12fe1a819aab0c30", 
+                    "size": "0x8", 
+                    "value": "0x66d566ec"
+                }
+            }
+        }, 
+        "36": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x9f4009589a566b6d"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x9d6adae616cd3da3"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0xfebb20fa13685afe"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0xc7c9299e3a20a32"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0xdb057419"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0xdb057419"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0xfebb20fa13685afe"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0xc7c9299e3a20a32"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0xdb057419"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x9f4009589a5662dd"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0xc7c9299e3a20a32"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0xdb057419"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x9d6adae616cd3d9b"
+                }, 
+                "8": {
+                    "location": "mem_0x9d6adae616cd3d9b", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x9f4009589a5662dd", 
+                    "size": "0x8", 
+                    "value": "0xdb057419"
+                }
+            }
+        }, 
+        "37": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xc448c43c06fd9d93"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x93563b3c1a29c5f7"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x8c491fde2f3eaf7b"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0xb91f778a2b2c3b57"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x3b808b"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x3b808b"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x8c491fde2f3eaf7b"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0xb91f778a2b2c3b57"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x3b808b"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xc448c43c06fd9503"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0xb91f778a2b2c3b57"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x3b808b"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x93563b3c1a29c5ef"
+                }, 
+                "8": {
+                    "location": "mem_0x93563b3c1a29c5ef", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xc448c43c06fd9503", 
+                    "size": "0x8", 
+                    "value": "0x3b808b"
+                }
+            }
+        }, 
+        "38": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x72e2c871575399ac"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xa46ee83b421be543"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x95fb2229bd37af26"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x165befc80b665cb6"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x3a36317"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x3a36317"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x95fb2229bd37af26"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x165befc80b665cb6"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x3a36317"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x72e2c8715753911c"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x165befc80b665cb6"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x3a36317"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xa46ee83b421be53b"
+                }, 
+                "8": {
+                    "location": "mem_0xa46ee83b421be53b", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x72e2c8715753911c", 
+                    "size": "0x8", 
+                    "value": "0x3a36317"
+                }
+            }
+        }, 
+        "39": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xc1810c2d55d0be29"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x759145e7a3d68de1"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x1dbe8dc2e0fa4458"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0xfd59394b64dd5a2b"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x1a34d0bb"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x1a34d0bb"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x1dbe8dc2e0fa4458"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0xfd59394b64dd5a2b"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x1a34d0bb"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xc1810c2d55d0b599"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0xfd59394b64dd5a2b"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x1a34d0bb"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x759145e7a3d68dd9"
+                }, 
+                "8": {
+                    "location": "mem_0x759145e7a3d68dd9", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xc1810c2d55d0b599", 
+                    "size": "0x8", 
+                    "value": "0x1a34d0bb"
+                }
+            }
+        }, 
+        "40": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x16668ec728e681e4"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x3b7c57d555688ae4"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0xbab4f3c52252b16f"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x1068d338c7888c01"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x8cb39c18"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x8cb39c18"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0xbab4f3c52252b16f"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x1068d338c7888c01"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x8cb39c18"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x16668ec728e67954"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x1068d338c7888c01"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x8cb39c18"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x3b7c57d555688adc"
+                }, 
+                "8": {
+                    "location": "mem_0x3b7c57d555688adc", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x16668ec728e67954", 
+                    "size": "0x8", 
+                    "value": "0x8cb39c18"
+                }
+            }
+        }, 
+        "41": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x2979dd23c57ec98a"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xb7de70783c399533"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0xa01270433a1ff644"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0xf6ba3242a1c6f1de"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0xee537c3f"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0xee537c3f"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0xa01270433a1ff644"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0xf6ba3242a1c6f1de"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0xee537c3f"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x2979dd23c57ec0fa"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0xf6ba3242a1c6f1de"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0xee537c3f"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xb7de70783c39952b"
+                }, 
+                "8": {
+                    "location": "mem_0xb7de70783c39952b", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x2979dd23c57ec0fa", 
+                    "size": "0x8", 
+                    "value": "0xee537c3f"
+                }
+            }
+        }, 
+        "42": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xc6aabfe898f0776a"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xf714f3206e42cb3f"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x48711a9d1f829ce3"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x8c24df43214b265f"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0xa94dee1d"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0xa94dee1d"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x48711a9d1f829ce3"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x8c24df43214b265f"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0xa94dee1d"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xc6aabfe898f06eda"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x8c24df43214b265f"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0xa94dee1d"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xf714f3206e42cb37"
+                }, 
+                "8": {
+                    "location": "mem_0xf714f3206e42cb37", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xc6aabfe898f06eda", 
+                    "size": "0x8", 
+                    "value": "0xa94dee1d"
+                }
+            }
+        }, 
+        "43": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xc8edf5d337fd4b76"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x91556c2d30c04c7d"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0xa412cae43350b3c"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x236601c999327c01"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0xb5995a31"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0xb5995a31"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0xa412cae43350b3c"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x236601c999327c01"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0xb5995a31"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xc8edf5d337fd42e6"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x236601c999327c01"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0xb5995a31"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x91556c2d30c04c75"
+                }, 
+                "8": {
+                    "location": "mem_0x91556c2d30c04c75", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xc8edf5d337fd42e6", 
+                    "size": "0x8", 
+                    "value": "0xb5995a31"
+                }
+            }
+        }, 
+        "44": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xbbff32abfd5437fc"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x681a78910b393b1f"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x731d92eb9ddb7093"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0xa2cc8f9d69f3698a"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0xc22a8914"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0xc22a8914"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x731d92eb9ddb7093"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0xa2cc8f9d69f3698a"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0xc22a8914"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xbbff32abfd542f6c"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0xa2cc8f9d69f3698a"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0xc22a8914"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x681a78910b393b17"
+                }, 
+                "8": {
+                    "location": "mem_0x681a78910b393b17", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xbbff32abfd542f6c", 
+                    "size": "0x8", 
+                    "value": "0xc22a8914"
+                }
+            }
+        }, 
+        "45": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x5061d8199be29bb6"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x8fea090187e5c6f5"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0xb1de0dd1aee62062"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0xa587defbf098ed17"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0xc15f800b"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0xc15f800b"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0xb1de0dd1aee62062"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0xa587defbf098ed17"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0xc15f800b"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x5061d8199be29326"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0xa587defbf098ed17"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0xc15f800b"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x8fea090187e5c6ed"
+                }, 
+                "8": {
+                    "location": "mem_0x8fea090187e5c6ed", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x5061d8199be29326", 
+                    "size": "0x8", 
+                    "value": "0xc15f800b"
+                }
+            }
+        }, 
+        "46": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x5bd4df26722f17bb"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x2020376192a57aa7"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x988b5f236e4e0bef"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x432ed590240aa3a7"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x1180f477"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x1180f477"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x988b5f236e4e0bef"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x432ed590240aa3a7"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x1180f477"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x5bd4df26722f0f2b"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x432ed590240aa3a7"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x1180f477"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x2020376192a57a9f"
+                }, 
+                "8": {
+                    "location": "mem_0x2020376192a57a9f", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x5bd4df26722f0f2b", 
+                    "size": "0x8", 
+                    "value": "0x1180f477"
+                }
+            }
+        }, 
+        "47": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x1ea5443f7158d3f0"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xd341208a60c17b5d"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x30a24be4b411f08b"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0xf25661cb4fd086b5"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x58e4ccb7"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x58e4ccb7"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x30a24be4b411f08b"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0xf25661cb4fd086b5"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x58e4ccb7"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x1ea5443f7158cb60"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0xf25661cb4fd086b5"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x58e4ccb7"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xd341208a60c17b55"
+                }, 
+                "8": {
+                    "location": "mem_0xd341208a60c17b55", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x1ea5443f7158cb60", 
+                    "size": "0x8", 
+                    "value": "0x58e4ccb7"
+                }
+            }
+        }, 
+        "48": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0xd13e8b388c9640be"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xb4bc449b1eeae50c"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x7c211047f29bb6d2"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x43907bf4a5eae28a"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0xe9f077b5"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0xe9f077b5"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x7c211047f29bb6d2"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x43907bf4a5eae28a"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0xe9f077b5"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0xd13e8b388c96382e"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x43907bf4a5eae28a"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0xe9f077b5"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0xb4bc449b1eeae504"
+                }, 
+                "8": {
+                    "location": "mem_0xb4bc449b1eeae504", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0xd13e8b388c96382e", 
+                    "size": "0x8", 
+                    "value": "0xe9f077b5"
+                }
+            }
+        }, 
+        "49": {
+            "inputs": {
+                "0": {
+                    "location": "RBP", 
+                    "size": "0x8", 
+                    "value": "0x8936048505314095"
+                }, 
+                "1": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x1a184d0b79bf7786"
+                }, 
+                "2": {
+                    "location": "mem_0x0", 
+                    "size": "0x8", 
+                    "value": "0x3b42657a8decaeaf"
+                }, 
+                "3": {
+                    "location": "mem_0x1", 
+                    "size": "0x8", 
+                    "value": "0x12a465fdd189a454"
+                }, 
+                "4": {
+                    "location": "mem_0x2", 
+                    "size": "0x4", 
+                    "value": "0x5f72e7d6"
+                }
+            }, 
+            "outputs": {
+                "0": {
+                    "location": "RAX", 
+                    "size": "0x8", 
+                    "value": "0x5f72e7d6"
+                }, 
+                "1": {
+                    "location": "RDX", 
+                    "size": "0x8", 
+                    "value": "0x3b42657a8decaeaf"
+                }, 
+                "2": {
+                    "location": "RCX", 
+                    "size": "0x8", 
+                    "value": "0x12a465fdd189a454"
+                }, 
+                "3": {
+                    "location": "EAX", 
+                    "size": "0x4", 
+                    "value": "0x5f72e7d6"
+                }, 
+                "4": {
+                    "location": "RBX", 
+                    "size": "0x8", 
+                    "value": "0x8936048505313805"
+                }, 
+                "5": {
+                    "location": "RSI", 
+                    "size": "0x8", 
+                    "value": "0x12a465fdd189a454"
+                }, 
+                "6": {
+                    "location": "EDI", 
+                    "size": "0x4", 
+                    "value": "0x5f72e7d6"
+                }, 
+                "7": {
+                    "location": "RSP", 
+                    "size": "0x8", 
+                    "value": "0x1a184d0b79bf777e"
+                }, 
+                "8": {
+                    "location": "mem_0x1a184d0b79bf777e", 
+                    "size": "0x8", 
+                    "value": "0x1000047"
+                }, 
+                "9": {
+                    "location": "mem_0x8936048505313805", 
+                    "size": "0x8", 
+                    "value": "0x5f72e7d6"
+                }
+            }
+        }
+    }
+}
